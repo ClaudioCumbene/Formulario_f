@@ -3,7 +3,7 @@
 <head>
 	<title>Adicionar</title>
 </head>
-<body>
+<body>    
 	<h2>Novo Utilizador</h2>
 	<?php 
 		$action_file = "insert.php";
