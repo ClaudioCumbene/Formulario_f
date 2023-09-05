@@ -26,9 +26,9 @@
 		<?php foreach ($users as $u) {
 		?>
 		<tr>
-			<td><?php echo $u->nome; ?></td>
-			<td><?php echo $u->email; ?></td>
-			<td><?php echo $u->perfil; ?></td>
+			<td><? echo $u->nome; ?></td>
+			<td><? echo $u->email; ?></td>
+			<td><? echo $u->perfil; ?></td>
 			<td>
 				<a href="ver?id=<?php echo $u->id; ?>">Ver</a>
 				<a href="editar?id=<?php echo $u->id; ?>">Editar</a>
