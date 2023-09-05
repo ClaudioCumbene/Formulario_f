@@ -20,7 +20,7 @@
 			<th>Email</th>
 			<th>Perfil</th>
 			<th>Teste</th>
-			<th></th>
+			
 		</tr>
 
 		<?php foreach ($users as $u) {
