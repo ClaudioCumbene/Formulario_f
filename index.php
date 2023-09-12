@@ -39,6 +39,6 @@
 		<?php } ?>
 	</table>
 
-
+<p>Verificacao2</p>
 </body>
 </html>
